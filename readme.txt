@@ -5,4 +5,6 @@
 部分好软件：
 腾讯云服务器搭建SSr:https://taojt.xyz/2019/07/01/tx-cloud-ssr/
 
+Git is a distributed version control system.
+Git is free software.
 
